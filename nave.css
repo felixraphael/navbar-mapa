@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+th{
+    color: #b91414;
+}
+
+.itemNav{
+    padding: 100px;
+}
+
+.itemLogin{
+    margin-left: 200px ;
+}
+
+.inicio{
+    width: 30px;
+    height: 30px;
+}
+
+
+nav{
+    background-color: rgb(174, 211, 211);
+}
+
+body{
+    background-image: url("");
+    background-size: 100%;
+
+}
