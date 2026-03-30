@@ -1,29 +1,26 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
-
-th{
-    color: #b91414;
+.nav{
+    background: rgb(0, 0, 0);
+    width: 100%;
+    height: auto;
 }
 
-.itemNav{
-    padding: 100px;
+.nav ul li{
+    display: inline-block;
+    padding: 25px 20px 25px 20px;
 }
 
-.itemLogin{
-    margin-left: 200px ;
+.nav ul li a{
+    color: rgb(149, 147, 31);
+    text-decoration: none;
 }
 
-.inicio{
-    width: 30px;
-    height: 30px;
+.nav ul li a:hover{
+    text-decoration: none;
+    color: snow;
 }
 
-
-nav{
-    background-color: rgb(174, 211, 211);
-}
-
-body{
-    background-image: url("");
-    background-size: 100%;
-
+.navbar{
+    justify-content: space-between;
+    color: aliceblue;
+    text-align: center;
 }
